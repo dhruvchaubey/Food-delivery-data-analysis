@@ -7,6 +7,9 @@ Welcome to the Zomato Dataset Exploration Project, where data meets gastronomy i
 
 # 1. Data Preparation:
 The project begins with a process akin to a chef’s meticulous preparation of ingredients. Cleaning and preprocessing the dataset is the first step, ensuring every row and column is polished and primed for analysis. This stage eliminates noise, handles missing values, and transforms raw data into a reliable foundation for meaningful insights.
+### Dataset
+You can download the dataset used in this project [here](https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset).
+
 
 # 2. Data Analysis:
 With a refined dataset, the real story begins. Here, the project delves into uncovering patterns and trends that shape the dining landscape. From identifying what makes a restaurant a top choice to analyzing cuisine popularity and uncovering the nuances of customer preferences, this step transforms data into actionable insights.
